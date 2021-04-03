@@ -12,7 +12,7 @@ This repositary contains:
 
 ### Results and interesting findings 
 
-Out of Linear Regression, Lasso Regression, Ridge Regression and Random Forest Regressor, the Random Forest Regressor performed best achieving:
+Out of Linear Regression, Lasso Regression, Ridge Regression and Random Forest Regressor, the **Random Forest Regressor** performed best achieving:
   - R^2 Score of **97%**
   - Root Mean Squared Error of **1.26**
  
@@ -21,7 +21,11 @@ By using Feature Importance, we are able to see that the top 5 most important fe
 <img width="741" alt="Screenshot 2021-04-03 at 18 58 20" src="https://user-images.githubusercontent.com/76878856/113488175-4ce48180-94b4-11eb-9b00-b666ba6be6b9.png">
 
 Additionally, from the EDA we saw that the player positions with the highest overall scores where the wingers (RF & LF)
+
 <img width="800" alt="Screenshot 2021-04-03 at 18 58 45" src="https://user-images.githubusercontent.com/76878856/113488207-7dc4b680-94b4-11eb-88f2-8b0ba10f6a60.png">
 
+### Deployed model 
+Using Streamlit, we are able to deploy the model and use it to predict an overall score when variables are input.
 
 ![deployed-model](https://user-images.githubusercontent.com/76878856/113489477-6b4e7b00-94bc-11eb-9dc6-c777203b5e8b.gif)
+
