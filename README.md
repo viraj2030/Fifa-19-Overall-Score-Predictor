@@ -6,7 +6,7 @@ This project analyses Fifa 19 players and allows the user to predict an overall 
 Data used in the project is the Fifa 19 dataset, found [here](https://www.kaggle.com/karangadiya/fifa19).
 
 This repositary contains:
-  - Exploritory data analysis
+  - Exploratory data analysis
   - Regression model
   - Streamlit app to deploy the model and predict an overall Fifa score
 
@@ -20,7 +20,7 @@ By using Feature Importance, we are able to see that the top 5 most important fe
 
 <img width="741" alt="Screenshot 2021-04-03 at 18 58 20" src="https://user-images.githubusercontent.com/76878856/113488175-4ce48180-94b4-11eb-9b00-b666ba6be6b9.png">
 
-Additionally, from the EDA we saw that the player positions with the highest overall scores where the wingers (RF & LF)
+Additionally, from the EDA we saw that the player positions with the highest overall scores were the wingers (RF & LF)
 
 <img width="800" alt="Screenshot 2021-04-03 at 18 58 45" src="https://user-images.githubusercontent.com/76878856/113488207-7dc4b680-94b4-11eb-88f2-8b0ba10f6a60.png">
 
